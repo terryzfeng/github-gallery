@@ -1,0 +1,31 @@
+body {
+    background: url("https://lh3.googleusercontent.com/M9rq1nHEADW8ri6okWyKgf-f1isgC2wUqjqw3rMak85j8e73CdtzuZYru7sbRshlGQwO1KixlgL72vUqGAsDTVcVcYSIsbuiZIiaJzFlARovd3h26INYGQ9F0fr9wG5PU5tqPx9-xfrBkd8eJdXAeTHEyxr2wOH16Q5yC7iN8KX0bg4QHHn5leHBEgVfgZM8uyYfHKDeaiyvoBRgKeGxt07f5qxtjoWwmhTwsrYYTyAruQvFOhsepxgIoi11UscIIZufekTMDo0aTA53x_B577vQNgDLPOevzVBPmhlHJPZZA5I0Sq7UQdoesU0RGVpNaBBNksQB8ct-K_YvwNzm9-xKzLghMOla63b15GgPs5IE8_B8dr0JwsBiOPKhoky8-FGXKwKs84Y268CGINPRJkoXhsKdIpobpwj-suNeasqFm83OUx9FFjRml5iAoOMJSWf8b5Xb_-aohgGCemsXGHUkC2eI7YSa8fZvlgbBanOpCmksuadrkekH0jcHeP35wvbz8y5_Vz3L4y4X2pcAL6h4h6MIynO6YQNDS2SU-2NyBtlKKFDxrfDZLyr8NPbxZblF7fsclW4MuTBS2w7ONlI2qAnk03opcCkWSYkiKUKPJk3kQbqVXNe_DBYd4xNXjs6T5tbLAYXP57lSuzT1gn_C7BtWTkEk9oAGmybEWpkoxCyJc0UEFl5GJ2rs8s0=w996-h664-no?authuser=0");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.wrapper {
+    display: table;
+}
+h1 {
+    margin: 0;
+    padding: 0.3em 1em;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Playfair Display', serif;     
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    border: 2px solid white;
+    font-size: 5em;
+    color: white;
+    transition: 0.3s;
+}
+h1:hover {
+    font-size: 4.7em;
+}
+em {
+        font-size: 3rem;
+}

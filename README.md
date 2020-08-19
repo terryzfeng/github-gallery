@@ -2,4 +2,4 @@
 
 My collection of website projects. View GitHub repositories and view sites live with GitHub Pages hosting.
 
-&emdash; terry feng
+&ndash; terry feng

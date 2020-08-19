@@ -1,4 +1,5 @@
-# My Website
+# My Website of Small Website Projects
 
-Just a quick html and css practice website. 
-Testing Github Pages domain and host. 
+My collection of website projects. View GitHub repositories and view sites live with GitHub Pages hosting.
+
+&emdash; terry feng

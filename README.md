@@ -2,7 +2,7 @@
 
 [Visit!](https://terryzfeng.github.io)
 
-A fun showcase of projects, websites, and repositories. Learn, peruse, experience, and just click around in my immersive art gallery!
+Welcome to my immersive GitHub repository gallery. Come check out my repositories, peruse through my projects, and explore my work!
 
 A huge shoutout to to [HTML5UP](https://html5up.net/)!
 

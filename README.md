@@ -1,5 +1,5 @@
 # My Website of Small Website Projects
 
-My collection of website projects. View GitHub repositories and view sites live with GitHub Pages hosting.
+A fun showcase of projects, websites, and repositories. Enjoy, peruse, experience, and just click around!
 
 &ndash; terry feng

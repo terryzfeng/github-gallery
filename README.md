@@ -1,5 +1,5 @@
 # My Website!
-[Visit!](https://terryzfeng.github.io)
+[Visit!](https://terryzfeng.github.io/github-gallery)
 
 ![Site](/personal_images/site.jpg)
 
